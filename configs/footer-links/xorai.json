@@ -1,0 +1,79 @@
+[
+    {
+      "title": "Paging",
+      "links": [
+        {
+          "text": "Home",
+          "url": "https://xorai.net"
+        },
+        {
+          "text": "Roadmap",
+          "url": "https://xorai.net"
+        },
+        {
+          "text": "Knowledge",
+          "url": "https://xorai.net"
+        },
+        {
+          "text": "Whitepaper",
+          "url": "https://xorai.net/whitepaper.pdf"
+        }
+      ]
+    },
+    {
+      "title": "APPS",
+      "links": [
+        {
+          "text": "Dapps",
+          "url": "https://xorai.net"
+        },
+        {
+          "text": "Social Fi",
+          "url": "https://social.xorai.net"
+        },
+        {
+          "text": "Xorai Fun",
+          "url": "https://fun.xorai.net"
+        }
+      ]
+    },
+    {
+      "title": "EXTRA",
+      "links": [
+        {
+          "text": "News",
+          "url": "https://medium.com/@xorai"
+        },
+        {
+          "text": "Blog",
+          "url": "https://ethereumclassic.org/news/tag/blog"
+        },
+        {
+          "text": "About",
+          "url": "https://xorai.net"
+        }
+      ]
+    },
+      {
+      "title": "Other",
+      "links": [
+        {
+          "text": "MetaSuites",
+          "url": "https://blocksec.com/metasuites"
+        },
+        {
+          "text": "Sourcify",
+          "url": "https://sourcify.dev/"
+        },
+        {
+          "text": "DRPC",
+          "url": "https://drpc.org?ref=559183"
+        },
+        {
+          "text": "BlockSec",
+          "url": "https://blocksec.com/"
+        }
+      ]
+    }
+  ]
+  
