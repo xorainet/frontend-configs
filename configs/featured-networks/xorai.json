@@ -1,0 +1,14 @@
+[{
+    "title": "Xorai Mainnet",
+    "url": "https://mainnet.xorai.net/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/xorainet/frontend-configs/refs/heads/main/configs/network-icons/xorai.svg",
+    "isActive": true
+},
+{
+    "title": "Xorai Zathura",
+    "url": "https://zathura.xorai.net",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/xorainet/frontend-configs/refs/heads/main/configs/network-icons/xorai.svg"
+}
+]
